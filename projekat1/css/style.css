@@ -1,0 +1,884 @@
+/*index*/
+#sr {
+    width: 50px;
+    height: 50px;
+}
+#en {
+    width: 60px; 
+    height: 60px;
+}
+#min-menu {
+   background-repeat: no-repeat;
+    background-color: #3f3f3f;
+    color: #fff;
+    padding-top: 10px;
+}
+#add-ons {
+    background-repeat: no-repeat;
+    background-color: #6d6b6b;
+    color: #fff;
+}
+ul {
+    list-style: none;
+}
+li a {
+    display: block;
+    color: #fff;
+    padding: 2px;
+    text-decoration: none;
+}
+#gornji-meni {
+    margin-left: 200px;
+}
+#gornji-meni li a:hover{
+    text-decoration: none;
+    list-style: none;
+	background-color: #6d6b6b;
+    color: #FF7B14;
+	border: 0;
+}
+#icon-image{
+    margin: 10px;
+}
+#menu {
+    color: #000;
+    padding-left: 5px;
+}
+.container{
+    padding: 0px;
+}
+
+.col-md-10 {
+    width: 84%;
+  }
+#detaljnije{
+    background:url(../images/detaljnije.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    opacity: 0.8;
+}
+#text1{
+    color: #000;
+    margin-left: 80px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+#text2{
+    color: #000;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    
+}
+#btn-detaljnije{
+    background-color: transparent;
+    color: #000;
+    width: 150px;
+    margin-left: 175px;
+    border-color: #000;
+}
+#btn-detaljnije:hover{
+    border-color: #0d4883;
+    color: #0d4883;
+}
+#a-detaljnije {
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+}
+#a-detaljnije:hover{
+    border-color: #0d4883;
+    color: #0d4883;
+}
+.well {
+    margin-top: 50px;
+    text-align: center;
+    background-color: #e5e5e5;
+    box-shadow: 0 0 0 3px #e5e5e5;
+    padding: 0px;
+    
+}
+#col1{
+    color: #0d4883;
+}
+#nedeljni-meni {
+    background:url(../images/meni.jpg);
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    height: 500px;
+    opacity: 0.8;
+}
+#nedeljni{
+    width: 400px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 120px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 0px #fff;
+}
+#text3{
+    color: #fff;
+    font-weight: bold;
+    margin-top: 65px;
+}
+.menu_text{
+    position: relative;
+    left: 60px;
+    padding: 5px 0px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+}
+.menu_br{
+    position: relative;
+    left: 178px;
+    text-align: right;
+    color: #fff;
+    font-weight: bold;
+}
+#meni-linija {
+    width: 270px;
+    border-color: #fff;
+}
+.text4{
+    color: #fff;
+    font-weight: bold;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.text5{
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 140px;
+}
+#menu{
+    width: 572px;
+    padding-left: 5px;
+    background-color: #222222;
+    margin-bottom: 50px;
+    margin-left: 26px;
+    overflow: hidden;
+}
+#menu li a:hover:not(.active){
+    text-decoration: none;
+    list-style: none;
+    background-color: #222222;
+	color: #FF7B14;
+	border: 0;
+}
+
+#menu li a.active {
+    background-color: #6d6b6b;
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    border: 0px;
+}
+
+#search {
+    height: 50px;
+    width: 72%;
+    background: #595858;
+    color: #fff;
+    font-weight: bold;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    border: 0px;
+    box-shadow: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    outline-style: solid;
+    outline-color: transparent;
+    
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background: #595858;
+    color: #ffffff;
+    border: none;
+    box-shadow: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 40px;
+    outline-style: solid;
+    outline-color: transparent;
+}
+.icon:hover{
+    color: #FF7B14;
+}
+.icon:focus{
+    background-color: #3f3f3f;
+    color: #fff;
+}
+.glyphicon-search{
+    font-size: 15px;
+}
+#logo{
+    margin-top: 10px;
+    padding-left: 350px;
+}
+#jezik{
+    padding-left: 100px;
+}
+#text6{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.galerija1{
+    width: 277px; 
+    height: 200px;
+}
+.galerija2 {
+    width: 700px; 
+    height: 500px;
+}
+.galerija3 {
+    width: 170px; 
+    height: 100px;
+}
+
+#instagram{
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+}
+#fb{
+    width: 40px;
+    height: 40px; 
+}
+#meni2{
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    margin-top: -10px;
+    padding-top: 7px;
+    padding-left: 15px;
+    background-color: #6d6b6b;
+    color: #fff;
+}
+#rez{
+    margin-left: 100px;
+}
+#socialButtonOnPage {
+    width:100%;
+    display:inline-block;
+    float:left; 
+    padding: 20px 0px 30px;
+}
+#socialButtonOnPage .csbwfs-sbutton-post img {
+    width:40px;
+    height:40px;
+    opacity:0.7;
+    border-radius:3px 3px 3px 3px;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+#socialButtonOnPage .csbwfs-sbutton-post img:hover{
+    opacity:1;
+}
+
+#socialButtonOnPage .sharethis-arrow span:hover{
+    cursor:pointer;
+}
+
+#socialButtonOnPage .sharethis-arrow span{
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+
+/* Left Position */
+
+.leftSocialButtonOnPage .csbwfs-sbutton-post {
+    float:left; 
+    padding:5px 1px;
+}
+
+.leftSocialButtonOnPage .sharethis-arrow{
+    float:left;
+    padding:5px 10px 5px 1px;
+    background: no-repeat scroll 0 0 #07325c;
+    height: 29px;
+    padding: 0 10px 0 0;
+    margin-top:5px;
+    margin-left: 120px;
+    margin-right: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.leftSocialButtonOnPage .sharethis-arrow span{
+    padding-left: 12px;
+    padding-top: 6px;
+}
+
+
+/* za-firmu.html */
+
+.pf1{
+    font-size: 16px;
+    line-height: 25px;
+}
+#pf2{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#socialButtonOnPage1 {
+    width:100%;
+    display:inline-block;
+    float:left; 
+    padding: 20px 0px 30px;
+}
+#socialButtonOnPage1 .csbwfs-sbutton-post1 img {
+    width:40px;
+    height:40px;
+    opacity:0.7;
+    border-radius:3px 3px 3px 3px;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+#socialButtonOnPage1 .csbwfs-sbutton-post1 img:hover{
+    opacity:1;
+}
+
+#socialButtonOnPage1 .sharethis-arrow1 span:hover{
+    cursor:pointer;
+}
+
+#socialButtonOnPage1 .sharethis-arrow1 span{
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-top: 10px;
+}
+.leftSocialButtonOnPage1 .csbwfs-sbutton-post1 {
+    float:left; 
+    padding:5px 1px;
+}
+
+.leftSocialButtonOnPage1 .sharethis-arrow1{
+    float:left;
+    padding:5px 10px 5px 1px;
+    background: no-repeat scroll 0 0 #07325c;
+    height: 29px;
+    padding: 0 10px 0 0;
+    margin-top:5px;
+    margin-left: 240px;
+    margin-right: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.leftSocialButtonOnPage1 .sharethis-arrow1 span{
+    padding-left: 12px;
+    padding-top: 6px;
+}
+/*Restoranii*/
+a {
+    text-decoration: none;
+    list-style: none;
+}
+a:hover {
+    text-decoration: none;
+    list-style: none;
+}
+.text-restoran{
+    color: #000;
+    text-align: center;
+}
+.slika{
+	width:190px;
+	height:100px;
+    margin-bottom: 10px;
+	
+}
+#div-restoran{
+    margin-bottom: 50px;
+}
+
+/*Svi restorani*/
+.restorani-info {
+    color: #0D4883;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.restorani-info1 {
+    color: #000;
+    font-size: 18px;
+    margin-left: 10px;
+}
+#map{
+    height: 400px;
+    width: 500px;
+}
+
+.restorani-text{
+    font-size: 15px;
+}
+
+#socialButtonOnPage2 {
+    width:100%;
+    display:inline-block;
+    float:left; 
+    padding: 20px 0px 30px;
+}
+#socialButtonOnPage2 .csbwfs-sbutton-post2 img {
+    width:40px;
+    height:40px;
+    opacity:0.7;
+    border-radius:3px 3px 3px 3px;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+#socialButtonOnPage2 .csbwfs-sbutton-post2 img:hover{
+    opacity:1;
+}
+
+#socialButtonOnPage2 .sharethis-arrow2 span:hover{
+    cursor:pointer;
+}
+
+#socialButtonOnPage2 .sharethis-arrow2 span{
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.leftSocialButtonOnPage2 .csbwfs-sbutton-post2 {
+    float:left; 
+    padding:5px 1px;
+}
+
+.leftSocialButtonOnPage2 .sharethis-arrow2{
+    float:left;
+    padding:5px 10px 5px 1px;
+    background: no-repeat scroll 0 0 #07325c;
+    height: 29px;
+    padding: 0 10px 0 0;
+    margin-top:5px;
+    margin-left: 90px;
+    margin-right: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.leftSocialButtonOnPage1 .sharethis-arrow1 span{
+    padding-left: 12px;
+    padding-top: 6px;
+}
+#restorani-hr {
+    width: 100%;
+    border-top: 1px solid #9c9c9e;
+}
+.slika{
+    width: 200px;
+    height: 120px;
+    margin-left: 10px;
+            
+}
+.linija {
+    width: 100%;
+    border-top: 1px solid #9c9c9e;
+    margin-bottom: 40px;
+}
+#name{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+}
+#email{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+}
+#subject{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;  
+}
+#message{
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+    max-width: 100%;
+}
+.kontakt1 {
+    text-align: center;
+}
+.kontakt2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+#kontakt{
+    width: 200px;
+    margin-left: 115px;
+    background-color: transparent;
+    border: 2px solid #000;
+    color: #000;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+#kontakt:hover{
+    border-color: #0d4883;
+    color: #0d4883; 
+}
+.kontakt3 {
+    text-align: center;
+    font-size: 15px;
+}
+/*rezervacije*/
+.forma {
+    width: 645px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#broj_osoba {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#ime {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#prezime {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#telefon {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#email2 {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#email3 {
+    width: 460px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 0;
+    margin-top: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+#napomena {
+    width: 575px;
+    max-width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#napomena1 {
+    width: 460px;
+    max-width: 460px;
+    height: 46px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 0;
+    margin-top: 10px;
+}
+#objekat {
+    width: 575px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+#objekat1 {
+    width: 460px;
+    height: 46px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 0;
+    margin-top: 10px;
+}
+.datum {
+    width: 460px;
+    height: 34px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 0;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+/*admin deo*/
+#admin-menu{
+    width: 250px;
+    padding: 0px;
+    color: #000;
+    background-color: transparent;
+    margin-bottom: 50px;
+    margin-left: 5px;
+}
+#admin-menu li a{
+    color: #000;
+}
+#admin-menu li a:hover{
+    background-color: transparent;
+    text-decoration: none;
+    list-style: none;
+	color: blue;
+}
+#menu2 {
+    color: #000;
+    padding: 0px;
+}
+
+.navbar-toggle {
+    background-color: #FF7B14;
+}
+.collapsed {
+    background-color: #6d6b6b;
+}
+.icon-bar{
+    background-color: #fff;
+}
+.navbar-collapse{
+    padding-right: 0;
+}
+.navbar {
+    border: none;
+}
+.collapse {
+    padding-right: 0;
+}
+/*Tablets ----------- */
+@media (max-width:1024px){
+    body {
+        overflow-x: hidden;
+    }
+    #meni2{
+    position: absolute;
+        left: 500px;
+        bottom: 0;
+    }
+    #menu11{
+        background-color: #222222;
+        margin-right: 15px;
+    }
+        #menu1{
+        background-color: #222222;
+        margin-right: 0;
+    }
+    #logo {
+       left: 205px;
+       bottom: 62px;
+    }
+    #nedeljni{
+        width: 400px;
+        height: 300px;
+        margin-top: 40px;
+        margin-left: 155px;
+        background-color: transparent;
+        color: #000;
+        border: 1px solid #000;
+        box-shadow: 0 0 0 0px #000;
+    }
+    #text3{
+        color: #000;
+        margin-top: 65px;
+    }
+    .menu_text{
+        position: relative;
+        left: 60px;
+        padding: 5px 0px;
+        text-align: left;
+        color: #000;
+    }
+    .menu_br{
+        position: relative;
+        left: 178px;
+        text-align: right;
+        color: #000;
+    }
+    hr {
+        width: 270px;
+    }
+    .text4{
+        color: #000;
+        margin-left: 220px;
+        margin-top: 50px;
+    }
+    .text5{
+        color: #000;
+        font-size: 20px;
+        margin-left: 180px;
+    }
+    .galerija1{
+        width: 181px; 
+        height: 200px;
+    }
+    .galerija2 {
+        width: 700px; 
+        height: 500px;
+    }
+    .galerija3 {
+        width: 170px; 
+        height: 100px;
+    }
+    #galerija{
+        margin-left: 0;
+        margin-right: -140px;
+    }
+    .container-fluid{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .col-md-6 {
+        padding-right: 0;
+    }
+    .container {
+        padding: 0;
+        margin-right: -15px;
+    }
+    #menu {
+        width: 750px;
+        margin-left: -15px;
+        margin-right: 0;
+        margin-bottom: 20px;
+
+
+    }
+
+    #search {
+        margin-left: 80px;
+    }
+    #text6{
+        margin-left: 105px;
+        margin-bottom: 20px;
+    }
+    #slike_nedelje {
+        width: 50%;
+        margin-left: 150px;
+    }
+    #detaljnije{
+        background-repeat: no-repeat;
+        margin-right: 0;
+        margin-left: 0;
+        
+    }
+    #add-ons {
+        background-repeat: no-repeat;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #min-menu {
+        background-repeat: no-repeat;
+        margin-right: 0;
+    }
+    #nedeljni-meni {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    #text1{
+        margin-left: 200px;
+        
+    }
+    #text2{
+        margin-left: 160px;
+    
+    }
+        #btn-detaljnije{
+        margin-left: 280px;
+
+    }
+    .pf1 {
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: justify;
+    }
+    #pf2 {
+        padding-left: 10px;
+    }
+    #kontakt_forma {
+        margin-left: 90px;
+    }
+    #kontakt_info {
+        margin-left: 90px;
+    }
+    #kontakt {
+        margin-left: 170px;
+    }
+    .forma {
+        position: absolute;
+        margin-left: 50px;
+    }
+    .slika {
+        margin-left: 250px;
+    }
+    .restorani-info {
+        text-align: left;
+        margin-left: 250px;
+    }
+    .restorani-info1 {
+        text-align: center;
+    }
+    #mapa {
+        margin-left: 55px;
+    }
+    #o-restoranu {
+        padding: 10px 40px 10px 20px;
+        text-align: justify;
+    }
+    #datetimepicker {
+        width: 575px;
+    }
+
+
+
+
+
+
+}
+
+/* Desktops and laptops ----------- */
+@media  (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media  (min-width : 1824px) {
+/* Styles */
+}
